@@ -1,0 +1,23 @@
+{
+    "blogs": [
+      {
+        "id": "1",
+        "title": "The Benefits of Remote Work",
+        "body": "Remote work offers numerous benefits, including flexibility, reduced commuting time, and a better work-life balance. Employees can work from anywhere, leading to increased productivity and job satisfaction.",
+        "author": "Jane Doe"
+      },
+      {
+        "id": "2",
+        "title": "Top Travel Destinations for 2024",
+        "body": "Explore the top travel destinations for 2024, from the pristine beaches of Bali to the historic cities of Europe. Whether you're looking for adventure, relaxation, or cultural experiences, there's a destination for everyone.",
+        "author": "John Smith"
+      },
+      {
+        "id": "3",
+        "title": "How to Start a Successful Business",
+        "body": "Starting a successful business requires careful planning, a solid business plan, and the ability to adapt to changing market conditions. Learn the essential steps to turn your business idea into a thriving enterprise.",
+        "author": "Emily Johnson"
+      }
+    ]
+  }
+  

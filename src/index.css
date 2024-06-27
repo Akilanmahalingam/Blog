@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.Navv {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.Navv h1 {
+  color: #f1356d;
+}
+.Navv .links {
+  margin-left: auto;
+}
+.Navv a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.Navv a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.Home h2 {
+  margin-left: 330px;
+  color: #3bf135;
+}
+
+.Home p {
+  margin-left: 330px;
+  color: #35bcf1;
+}
+
+.Home h4 {
+  margin-left: 330px;
+  color: #35bcf1;
+}
+
+.Blog-preview {
+  padding: 10px 16 px;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.Blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+
+.Bloglist h1 {
+  color: navy;
+  padding: 20px;
+  margin-left: 200px;
+}
+
+.Blog-preview button {
+  color:azure;
+  background-color: red;
+  margin-left: 330px;
+  border: 40px;
+
+  
+}
+
+.Blog-preview a{
+  text-decoration: none;
+}
+
+.Create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.Create label {
+  text-align: left;
+  display: block;
+}
+.Create h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.Create input, .create textarea, .Create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.Create button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.BlogDetails button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
